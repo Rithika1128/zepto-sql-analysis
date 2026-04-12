@@ -4,8 +4,10 @@
 This Project leverages SQL to perform an in-depth analysis of Zepto's product dataset, uncovering key insights into pricing strategies, discount distribution and inventory trends generating meaningful business insights.
 
 ## Objectives
--Analyze product pricing and discounts
--Identify high-value and high_discount prducts
+-To explore and analyze product data to uncover insights related to
+-Pricing patterns
+-Identify high-value and high_discount products and strategies
+-stock availability
 -Understand category trends
 -Generate business insights
 
@@ -15,17 +17,27 @@ This Project leverages SQL to perform an in-depth analysis of Zepto's product da
 -SQL
 
 ## Key Analysis
--Top expensive products.
+Products with Higher-MRP tend to have higher discounts
+-Some products are frequently out of stock
 -Discount analysis
--Price difference analysis
+-Price difference analysis and pricing inconsistencies
 -Revenue estimation
 -Category-wise insights.
+
+## Dataset
+-Source: Kaggle(Zepto inventory dataset)
 
 ## Key Insights
 -Discount % is not directly proportional to product price
 -Higher-priced products provide greater absolute discount value
 -Discounts are influenced by marketing analysis
 -Inventory gaps identified through stock analysis.
+
+## Skills Demonstrated
+-Data exploration
+-Data cleaning
+-SQL Queries
+-Data Analysis
 
 ## Files
 -zepto_data.csv
