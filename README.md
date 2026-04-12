@@ -42,3 +42,6 @@ Products with Higher-MRP tend to have higher discounts
 ## Files
 -zepto_data.csv
 -zepto_queries.sql
+
+## Project Screenshots
+ 
