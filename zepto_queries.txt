@@ -155,17 +155,3 @@ SUM(weight_in_gms * available_quantity) AS total_weight
 FROM zepto
 GROUP BY category
 ORDER BY total_weight;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
