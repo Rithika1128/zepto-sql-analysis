@@ -5,11 +5,11 @@ This Project leverages SQL to perform an in-depth analysis of Zepto's product da
 
 ## Objectives
 To explore and analyze product data to uncover insights related to
-*Pricing patterns
-*Identify high-value and high_discount products and strategies
-*stock availability
-*Understand category trends
-*Generate business insights
+-Pricing patterns
+-Identify high-value and high_discount products and strategies
+-stock availability
+-Understand category trends
+-Generate business insights
 
 ## Tools Used
 -PostgreSQL
