@@ -48,5 +48,5 @@ Below are sample query outputs from the analysis:
 
 ![Top Discount](top_discounts.png)
 ![Revenue](revenue_by_category.png)
-![Most expensive products](most_expensive_products.png)
 ![Premium products with low discount](premium_products_low_discounts.png)
+![Most expensive products](most_expensive_products.png)
