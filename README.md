@@ -1,4 +1,4 @@
-#Zepto Inventory and Pricing Analysis using SQL
+# Zepto Inventory and Pricing Analysis using SQL
 
 ## Project Overview
 This Project leverages SQL to perform an in-depth analysis of Zepto's product dataset, uncovering key insights into pricing strategies, discount distribution and inventory trends generating meaningful business insights. It includes data cleaning, exploratory analysis and business based queries.
