@@ -29,9 +29,10 @@ Products with Higher-MRP tend to have higher discounts
 
 ## Key Insights
 -Discount % is not directly proportional to product price
--Higher-priced products provide greater absolute discount value
--Discounts are influenced by marketing analysis
--Inventory gaps identified through stock analysis.
+-Premium products tend to have lower discount percentages
+-Certain categories generate higher estimated revenue
+-Higher-priced products provide greater absolute discount value.
+-Revenue is estimated using available quantity and discounted price.
 
 ## Skills Demonstrated
 -Data exploration
@@ -46,7 +47,14 @@ Products with Higher-MRP tend to have higher discounts
 ## Project Screenshots
 Below are sample query outputs from the analysis:
 
+### Top Discounted Products.
 ![Top Discount](top_discounts.png)
+
+### Revenue by each category.
 ![Revenue](revenue_by_category.png)
+
+### Premium products with low discounts.
 ![Premium products with low discount](premium_products_low_discounts.png)
+
+### Category weight classification.
 ![Most expensive products](most_expensive_products.png)
