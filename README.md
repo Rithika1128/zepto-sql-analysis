@@ -1,10 +1,10 @@
 #Zepto Inventory and Pricing Analysis using SQL
 
 ## Project Overview
-This Project leverages SQL to perform an in-depth analysis of Zepto's product dataset, uncovering key insights into pricing strategies, discount distribution and inventory trends generating meaningful business insights.
+This Project leverages SQL to perform an in-depth analysis of Zepto's product dataset, uncovering key insights into pricing strategies, discount distribution and inventory trends generating meaningful business insights. It includes data cleaning, exploratory analysis and business based queries.
 
 ## Objectives
--To explore and analyze product data to uncover insights related to
+To explore and analyze product data to uncover insights related to
 -Pricing patterns
 -Identify high-value and high_discount products and strategies
 -stock availability
@@ -44,4 +44,9 @@ Products with Higher-MRP tend to have higher discounts
 -zepto_queries.sql
 
 ## Project Screenshots
+Below are sample query outputs from the analysis:
+
+![Top Discount](ss1.png)
+![Revenue](ss2.png)
+![Price Analysis](ss3.png)
  
