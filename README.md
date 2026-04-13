@@ -5,11 +5,11 @@ This Project leverages SQL to perform an in-depth analysis of Zepto's product da
 
 ## Objectives
 To explore and analyze product data to uncover insights related to
--Pricing patterns
--Identify high-value and high_discount products and strategies
--stock availability
--Understand category trends
--Generate business insights
+*Pricing patterns
+*Identify high-value and high_discount products and strategies
+*stock availability
+*Understand category trends
+*Generate business insights
 
 ## Tools Used
 -PostgreSQL
@@ -47,14 +47,14 @@ Products with Higher-MRP tend to have higher discounts
 ## Project Screenshots
 Below are sample query outputs from the analysis:
 
-### Top Discounted Products.
+### 1.Top Discounted Products.
 ![Top Discount](top_discounts.png)
 
-### Revenue by each category.
+### 2.Revenue by each category.
 ![Revenue](revenue_by_category.png)
 
-### Premium products with low discounts.
+### 3.Premium products with low discounts.
 ![Premium products with low discount](premium_products_low_discounts.png)
 
-### Category weight classification.
+### 4.Category weight classification.
 ![Most expensive products](most_expensive_products.png)
